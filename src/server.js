@@ -1,6 +1,8 @@
+/* eslint-disable no-console */
 /* eslint linebreak-style: ["error", "windows"] */
 
 require('dotenv').config();
+require('./database/index');
 const express = require('express');
 const routes = require('./routes');
 
