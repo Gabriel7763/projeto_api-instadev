@@ -29,5 +29,6 @@ module.exports = {
     'class-methods-use-this': 'off',
     'no-restricted-syntax': 'off',
     'linebreak-style': 'off',
+    radix: 'off',
   },
 };
